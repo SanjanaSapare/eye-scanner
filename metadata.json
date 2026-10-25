@@ -1,0 +1,6 @@
+{
+  "name": "AccessScan Blink-to-Select Lab",
+  "description": "Assistive switch-access vision engine and Manifest V3 Chrome Extension architecture for hands-free double-blink web navigation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
